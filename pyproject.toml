@@ -1,0 +1,37 @@
+﻿[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lochyperrag"
+version = "0.1.0"
+description = "Local, deterministic HyperGraphRAG indexing and retrieval."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "networkx>=3.2",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "pyarrow>=14.0",
+    "PyYAML>=6.0",
+    "scikit-learn>=1.4",
+    "scipy>=1.11",
+    "sentence-transformers>=3.0",
+    "spacy>=3.7",
+    "typer>=0.12",
+]
+
+[project.optional-dependencies]
+community = [
+    "igraph>=0.11",
+    "leidenalg>=0.10",
+]
+
+[project.scripts]
+lochyperrag = "lochyperrag.cli:app"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

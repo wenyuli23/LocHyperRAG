@@ -1,0 +1,3 @@
+﻿Subject: Medical data sync issue
+
+An operations team at a medical clinic reported delays when patient files were synchronized between the local portal and the cloud dashboard. The team said the delay was most visible after nightly backup jobs and wanted guidance on reducing sync time.

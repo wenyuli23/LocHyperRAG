@@ -1,0 +1,3 @@
+﻿Subject: Project management integrations
+
+A project management customer asked whether the collaboration suite connects to Jira, Trello, and Asana. The product specialist explained that Jira and Asana integrations are available now, while the Trello connector is still being tested by the integration team.

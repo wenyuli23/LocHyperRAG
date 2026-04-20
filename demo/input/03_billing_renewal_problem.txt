@@ -1,0 +1,3 @@
+﻿Subject: Billing renewal problem
+
+A finance customer reported duplicate charges after a yearly subscription renewed. The account dashboard showed two payments on the same day, and the customer asked whether one of the charges could be refunded.

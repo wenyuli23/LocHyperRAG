@@ -1,0 +1,3 @@
+﻿Subject: Smart home compatibility question
+
+A potential customer asked which ecosystems are supported by the current HomeLink Hub. They specifically asked about Amazon Alexa, Google Assistant, and Apple HomeKit. The customer wants one system for lights, cameras, and thermostats in a single apartment.
