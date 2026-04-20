@@ -1,4 +1,4 @@
-# LoCHyperRAG for Researchers
+# LoCHyperRAG
 
 ## Scope
 
