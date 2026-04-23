@@ -1,4 +1,4 @@
-# LoCHyperRAG
+# LoCHyperRAG: Locality-aware Hypergraph RAG
 
 ## Scope
 
